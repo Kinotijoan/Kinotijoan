@@ -1,11 +1,11 @@
 ![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-<h1 align="center">THAT GIRL SINCE MY FIRST HELLO WORLD👋🏾 </h1>
+<h1 align="center">THAT GIRL SINCE MY FIRST HELLO WORLD </h1>
 <h2> WHAT I'M ALL ABOUT :</h2>
 Currently taking Computer Science, thrilled to know the power of Zero's and One's.<br><br>
 I'm actively involved in a number of projects.<br><br>
-I'd love to chat about the latest advancements in technology.<br><br>
 What cool tech stuff should I be learning next?<br><br>
+I'd love to chat about the latest advancements in technology.<br><br>
 
 ## CHILD OF THE UNIVERSE
 

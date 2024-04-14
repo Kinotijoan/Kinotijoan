@@ -1,7 +1,7 @@
 ![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 <h1 align="center">THAT GIRL SINCE MY FIRST HELLO WORLD👋🏾 </h1>
-# WHAT I'M ALL ABOUT :
+# WHAT I'M ALL ABOUT :</br>
 Currently taking Computer Science, thrilled to know the power of Zero's and One's.
 I'm actively involved in a number of projects.
 I'd love to chat about the latest advancements in technology.
